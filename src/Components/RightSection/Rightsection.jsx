@@ -10,7 +10,7 @@ const Rightsection = () => {
             <div className="container g-0">
                 <div className="title">
                     <p>PSY</p>
-                    <CancelIcon />
+                    <CancelIcon className="icon" />
                 </div>
                 <div className="image">
                     <img
@@ -20,7 +20,7 @@ const Rightsection = () => {
                 </div>
                 <div className="title songHeading">
                     <h3>PSY</h3>
-                    <MoreHorizIcon />
+                    <MoreHorizIcon className="icon" />
                 </div>
             </div>
             <AboutArtist />
