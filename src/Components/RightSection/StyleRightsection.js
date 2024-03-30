@@ -26,5 +26,8 @@ img{
     font-weight:900;
     padding-bottom:1rem;
 }
+.icon{
+cursor:pointer;
+}
 `
 export default StyleRightsection;
